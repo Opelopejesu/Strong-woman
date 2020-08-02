@@ -1,6 +1,7 @@
-# Strong-woman
-#Team Newton
+# Strong-woman/Team Newton
 #Hackbio Internship
+
+
 
 This repository was created by Opelopejesu,a member of Team-Newton.
 
