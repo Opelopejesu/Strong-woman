@@ -1,9 +1,8 @@
 # Strong-woman
-My first repository on github
-#Hackbio Internship
 #Team Newton
+#Hackbio Internship
 
-This repository was created by Opelopejesu,a hackbio intern.
+This repository was created by Opelopejesu,a member of Team-Newton.
 
 ##Biostack-Genomics
 
