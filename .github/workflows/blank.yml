@@ -1,0 +1,19 @@
+#!/usr/bin/env python
+#!/usr/bin/env python2
+#!/usr/bin/env python3
+#!/usr/bin/python2
+#!/usr/bin/python3
+#coding: utf-8
+#product: Hk
+
+Import random
+Import socket
+Import threading
+Import time
+Import datetime
+Import urllib2
+Import urllib
+Import re
+Import sys
+Import optparse
+
